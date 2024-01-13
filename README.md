@@ -17,10 +17,7 @@ https://academy.hackthebox.com/course/preview/introduction-to-networking
 3. Network Enumeration with Nmap\
 https://academy.hackthebox.com/course/preview/network-enumeration-with-nmap
 
-4. Introduction to Active Directory\
-https://academy.hackthebox.com/module/details/74
-
-5. MacOS Fundamentals\
+4. MacOS Fundamentals\
 https://academy.hackthebox.com/module/details/157
 
 
@@ -30,6 +27,8 @@ https://academy.hackthebox.com/module/details/157
 1. Windows Fundamentals\
 https://academy.hackthebox.com/course/preview/windows-fundamentals
 
+4. Introduction to Active Directory\
+https://academy.hackthebox.com/module/details/74
 
 
 #### Web Application
